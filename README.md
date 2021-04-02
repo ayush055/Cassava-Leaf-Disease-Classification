@@ -3,7 +3,7 @@
 Code for the Kaggle Cassava Leaf Disease Classification Competition
 
 ## Competition Results
-Top 11%
+Top 11% - 420 / 3900
 
 ## Techniques Used
 
